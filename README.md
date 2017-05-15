@@ -1,2 +1,2 @@
 # HelloWorld
-Sample Application
+Sample Application - To deploy in openshift Platform
